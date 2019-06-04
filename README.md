@@ -144,3 +144,28 @@ Por las molestias causadas y para aliviar un poco el disgusto, se le otorgará u
 ## Desarrollo
 
 ## Conclusiones
+A partir del prototipo testeado con usuarios y de hacer un análisis, surgieron algunas preguntas importantes como: ¿por qué yo tendría que llamar por un error que yo no cause?
+
+#### Hallazgos
+- Mejorar el mensaje de la pantalla
+- Que el banco realice el primer contacto de alivio
+- Su prioridad no es leer el comprobante, sino que le resuelvan en el momento
+- Mejorar la manera en la que se muestran las instrucciones para que el usuario pueda levantar el reporte indicado
+- No encontraron relación entre la compesación y la solución al problema sucitado
+
+#### Aciertos
+- Comprobante con información necesaria
+- Proceso claro y ágil
+- Solución en máx 48 hrs.
+- Disminución de incertidumbre
+- Compensación
+- Diseño de protocolo
+- CAT empático
+
+#### Nuevas ideas
+En una siguiente iteración, podríamos desarrollar y testear las siguientes ideas para complementar la solución que hemos diseñado para que el usuario tenga una menor incertidumbre al momento en que el cajero queda "Fuera de Servicio".
+
+- Ubicación del cajero más cercano
+- Reporte desde la aplicación
+- Código QR
+- Instrucciones en la aplicación
