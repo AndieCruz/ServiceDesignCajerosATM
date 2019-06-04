@@ -35,6 +35,19 @@ Una vez encontrados los ejes de comportamiento, ponemos a nuestros usuarios entr
 <img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---arquetipos-no-digital.jpg" alt="FueraDeServicio---arquetipos-no-digital.jpg" border="0">
 <img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---Copy-of-arquetipos-no-digital.jpg" alt="FueraDeServicio---Copy-of-arquetipos-no-digital.jpg" border="0">
 
+### User Persona
+Los principales usuarios digitales y no digitales, se ubican en un rango de edad de entre 25-40 años. 
+Después de entender sus comportamientos, tanto de usuarios digitales como no digitales, podemos realizar a nuestras User Personas.
+
+#### Digital
+
+<img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---User-Persona-Digital.jpg" alt="FueraDeServicio---User-Persona-Digital.jpg" border="0">
+
+#### No Digital
+
+<img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---User-Persona-No-Digital.jpg" alt="FueraDeServicio---User-Persona-No-Digital.jpg" border="0">
+
+
 
 ## Problemas encontrados
 
