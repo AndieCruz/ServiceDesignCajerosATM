@@ -47,6 +47,12 @@ Después de entender sus comportamientos, tanto de usuarios digitales como no di
 
 <a href="https://imgbbb.com/image/w1Llp"><img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---User-Persona-No-Digital73714ea994b6c1cc.jpg" alt="FueraDeServicio---User-Persona-No-Digital73714ea994b6c1cc.jpg" border="0" /></a>
 
+Decidimos crear una solución pensando en el usuario no digital. Para eso debíamos entender: lo que siente, lo que piensa, lo que escucha, lo que ve.
+
+![EmpathyMap](https://i.ibb.co/YZ8Zh9r/Empathy-map-1.jpg)
+
+
+
 
 
 ## Problemas encontrados
