@@ -51,64 +51,64 @@ Decidimos crear una solución pensando en el usuario no digital. Para eso debía
 
 ![EmpathyMap](https://i.ibb.co/YZ8Zh9r/Empathy-map-1.jpg)
 
-### Jobs To Be Done
--Encontrar un cajero cercano.
--Servicio 24 horas.
--Que haya dinero en el cajero.
--Que todas las operaciones estén disponibles.
--Que sea rápido.
--Que funcionen todos los cajeros.
--Sensación de seguridad.
--Status dependiendo al banco al que asistas.
--Planeación mental del presente, futuro. Prevenir cuándo tendrás que ir al cajero.
--Necesitan dinero.
--Necesitan tranquilidad, seguridad para comprar cosas.
+#### Jobs To Be Done
+- Encontrar un cajero cercano.
+- Servicio 24 horas.
+- Que haya dinero en el cajero.
+- Que todas las operaciones estén disponibles.
+- Que sea rápido.
+- Que funcionen todos los cajeros.
+- Sensación de seguridad.
+- Status dependiendo al banco al que asistas.
+- Planeación mental del presente, futuro. Prevenir cuándo tendrás que ir al cajero.
+- Necesitan dinero.
+- Necesitan tranquilidad, seguridad para comprar cosas.
 
 #### Gains
--Ubicación geográfica
--Diferentes opciones físicas para el cajero.(Súper,oxxo,cajero sucursal)
--Vidrio de divisar entre cajero y cajero.
--Accesibles en el momento que yo lo necesite.
--Espacio amplio.
--Encontrar un cajero en tu trayecto.
--Que hay dinero.
--Que exista un cajero multifuncional.
--Iluminado, limpio, amplio.
--Sensación de seguridad cuando el cajero está dentro de la sucursal.
--Que haya un host.
--Que haya un vigilante.
--Que el cajero tenga estacionamiento.
--Espejo retrovisor en cajero.
--Cámaras visibles.
--Sensación de exclusividad dependiendo del banco al que asistas.
--Que funcionen todos los cajeros.
+- Ubicación geográfica
+- Diferentes opciones físicas para el cajero.(Súper,oxxo,cajero sucursal)
+- Vidrio de divisar entre cajero y cajero.
+- Accesibles en el momento que yo lo necesite.
+- Espacio amplio.
+- Encontrar un cajero en tu trayecto.
+- Que hay dinero.
+- Que exista un cajero multifuncional.
+- Iluminado, limpio, amplio.
+- Sensación de seguridad cuando el cajero está dentro de la sucursal.
+- Que haya un host.
+- Que haya un vigilante.
+- Que el cajero tenga estacionamiento.
+- Espejo retrovisor en cajero.
+- Cámaras visibles.
+- Sensación de exclusividad dependiendo del banco al que asistas.
+- Que funcionen todos los cajeros.
 
 #### Pains
 - Que no haya un cajero cerca.
 - Que no haya dinero
--Proceso no es ágil.
--No hay seguimiento personalizado.
--Perder dinero.
--Quedarse sin dinero en ese momento inmediato.
--Quedar como irresponsable, moroso, gorrón (socialmente).
--La falta de dinero.
--Tiempo perdido.
--Ansiedad de no saber cuándo tendrás dinero.
--Abandonar proceso.
--No estar informados, ni saber a dónde acudir.
--No quejarse.
--No tener tiempo para transportarte a otro cajero.
--Mucha carga mental.
--Requiere cambiar dinámicas.
--Inseguridad de volver al mismo cajero.
--No encontrar una sucursal bancaria cercana.
--No todas las sucursales tienen un cajero multifuncional.
--Poca iluminación.
--Graffiteados.
--Espacios reducidos.
--Sucio/mal aroma.
--Que el cajero diga en voz alta en qué parte del proceso estás.
--La estructuración del servicio no es el mismo, no es cómodo, ni óptimo para el usuario. Banco azteca vs. Bancomer.
+- Proceso no es ágil.
+- No hay seguimiento personalizado.
+- Perder dinero.
+- Quedarse sin dinero en ese momento inmediato.
+- Quedar como irresponsable, moroso, gorrón (socialmente).
+- La falta de dinero.
+- Tiempo perdido.
+- Ansiedad de no saber cuándo tendrás dinero.
+- Abandonar proceso.
+- No estar informados, ni saber a dónde acudir.
+- No quejarse.
+- No tener tiempo para transportarte a otro cajero.
+- Mucha carga mental.
+- Requiere cambiar dinámicas.
+- Inseguridad de volver al mismo cajero.
+- No encontrar una sucursal bancaria cercana.
+- No todas las sucursales tienen un cajero multifuncional.
+- Poca iluminación.
+- Graffiteados.
+- Espacios reducidos.
+- Sucio/mal aroma.
+- Que el cajero diga en voz alta en qué parte del proceso estás.
+- La estructuración del servicio no es el mismo, no es cómodo, ni óptimo para el usuario. Banco azteca vs. Bancomer.
 
 
 ## Problemas encontrados
