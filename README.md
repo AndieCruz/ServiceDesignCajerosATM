@@ -111,7 +111,7 @@ Decidimos crear una solución pensando en el usuario no digital. Para eso debía
 - La estructuración del servicio no es el mismo, no es cómodo, ni óptimo para el usuario. Banco azteca vs. Bancomer.
 
 ### Journey Map
-Para encontrar los touch points con mayor inconformidad en la experiencia del usuario desde que planea su visita al cajero, hasta que sale del cajero. Decidimos mapear estos puntos y analizar su sentir y comportamiento.
+Decidimos mapear los Touchpoints y analizar el sentir del usuario y su reacción ante ciertos puntos desde que planea su visita al cajero y lo que pasa después de visitar el cajero. Para así después aminorar los punto de dolor con nuestra propuesta de diseño.
 ![FueraDeServicio---Journey-map.jpg](https://imgbbb.com/images/2019/06/04/FueraDeServicio---Journey-map.jpg)
 
 
