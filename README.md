@@ -1,15 +1,15 @@
-# ServiceDesignCajerosATM
+# Service Design Cajeros ATM
 
-# Objetivos
+## Objetivos
 
-# Definición del problema
+## Definición del problema
 
-# Usuarios
+## Usuarios
 
-# Problemas encontrados
+## Problemas encontrados
 
-# Propuesta de diseño
+## Propuesta de diseño
 
-# Desarrollo
+## Desarrollo
 
-# Conclusiones
+## Conclusiones
