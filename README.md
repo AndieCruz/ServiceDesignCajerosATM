@@ -123,6 +123,17 @@ Decidimos mapear los Touchpoints y analizar el sentir del usuario y su reacción
 
 ## Problemas encontrados
 
+Un proceso complejo
+
+Antes de construir una propuesta de diseño y de valor, necesitábamos entender un proceso complejo por parte de los operadores backstage.
+
+Entendiendo al usuario
+En este proyecto se construyó un user persona. Al ser un producto de servicio utilizado por el 80% aproximadamente de la población, era muy importante comprender los procesos que intentábamos optimizar. En cambio, utilizamos herramientas para esclarecer las motivaciones que tenían para usarlo el cajero y en qué parte del proceso se involucran una vez presentado el problema.
+
+
+Suposiciones desafiantes
+Después de mapear y comprender el proceso, era hora de comenzar a construir. Para deshacernos de las suposiciones y alinearnos en equipo. Desarrollamos la siguiente propuesta y pedimos a todos los interesados ​​que completen la mayor cantidad de suposiciones posibles.
+
 ## Propuesta de diseño
 La propuesta de diseño consiste en brindar las herramientas necesarias para que el usuario afectado sepa el procedimiento a seguir una vez interrumpido el servicio del cajero automático.
 El primer punto de contacto que tendrá el usuario es con la pantalla del cajero que se puso en "Fuera de servicio", donde se indica claramente que debe tomar su comprobante y el número al cual debe llamar.
