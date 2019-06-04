@@ -22,8 +22,18 @@ El 60% de las personas que reclamaron fue por consumos no reconocidos. De los 32
 
 ## Definición del problema
 
-## Usuarios
+## Definición del público objetivo
+### Arquetipo
+A través de las entrevistas realizadas a 3 usuarios Digitales y a 3 usuarios No Digitales, pudimos entender los comportamientos y generar ejes que describen su experiencia al momento de utilizar un cajero automático. 
 
+
+<img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---Ejes-de-comportamiento-DIGITAL.jpg" alt="FueraDeServicio---Ejes-de-comportamiento-DIGITAL.jpg" border="0">
+<img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---Ejes-de-comportamiento-no-Digital.jpg" alt="FueraDeServicio---Ejes-de-comportamiento-no-Digital.jpg" border="0">
+
+Una vez encontrados los ejes de comportamiento, ponemos a nuestros usuarios entrevistados en cuadrantes para encontrar a nuestro usuario ideal y saber a quién dirigirnos para resolver y diseñar una solución pensada en el usuario.
+
+<img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---arquetipos-no-digital.jpg" alt="FueraDeServicio---arquetipos-no-digital.jpg" border="0">
+<img src="https://imgbbb.com/images/2019/06/04/FueraDeServicio---Copy-of-arquetipos-no-digital.jpg" alt="FueraDeServicio---Copy-of-arquetipos-no-digital.jpg" border="0">
 
 
 ## Problemas encontrados
