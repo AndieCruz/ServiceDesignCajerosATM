@@ -110,6 +110,10 @@ Decidimos crear una solución pensando en el usuario no digital. Para eso debía
 - Que el cajero diga en voz alta en qué parte del proceso estás.
 - La estructuración del servicio no es el mismo, no es cómodo, ni óptimo para el usuario. Banco azteca vs. Bancomer.
 
+### Journey Map
+Para encontrar los touch points con mayor inconformidad en la experiencia del usuario desde que planea su visita al cajero, hasta que sale del cajero. Decidimos mapear estos puntos y analizar su sentir y comportamiento.
+![FueraDeServicio---Journey-map.jpg](https://imgbbb.com/images/2019/06/04/FueraDeServicio---Journey-map.jpg)
+
 
 ## Problemas encontrados
 
