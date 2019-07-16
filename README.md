@@ -228,7 +228,7 @@ para conocer las situaciones que más stress les genera la experiencia del cajer
 
 
 ## Metodología "4´s"
-![4 w´s](serviceAndy/4w.jpg)
+![4 w´s](https://github.com/AndieCruz/ServiceDesignCajerosATM/blob/master/4w.jpg)
 
 
 
